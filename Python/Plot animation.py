@@ -1,3 +1,5 @@
+# requirements  download the matplotlib using pip
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animate
 
