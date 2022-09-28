@@ -1,3 +1,6 @@
+# must download first the module ursina
+# use pip
+
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 
